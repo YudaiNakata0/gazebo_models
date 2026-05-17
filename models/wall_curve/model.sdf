@@ -14,8 +14,8 @@
 
       <material>
         <script>
-          <uri>model://wall_line/materials/scripts</uri>
-          <uri>model://wall_line/materials/textures</uri>
+          <uri>model://wall_curve/materials/scripts</uri>
+          <uri>model://wall_curve/materials/textures</uri>
           <name>WallPattern/Stripe</name>
         </script>
       </material>

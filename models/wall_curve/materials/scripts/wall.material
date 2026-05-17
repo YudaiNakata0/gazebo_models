@@ -6,7 +6,7 @@ material WallPattern/Stripe
         {
             texture_unit
             {
-                texture wall_line_texture_blue.png
+                texture wall_curve_texture_blue.png
             }
         }
     }
