@@ -1,0 +1,13 @@
+material WallPattern/Stripe
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture wall_image.jpg
+            }
+        }
+    }
+}
