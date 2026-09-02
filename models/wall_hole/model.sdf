@@ -6,7 +6,7 @@
       <visual name="wall_visual">
         <geometry>
           <mesh>
-            <uri>file:///home/nakata/ros/jsk_aerial_robot_ws/src/jsk_aerial_robot/aerial_robot_simulation/gazebo_model/model/wall_hole/mesh/wall_hole.STL</uri>
+            <uri>model://wall_hole/mesh/wall_hole.STL</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -19,7 +19,7 @@
       <collision name="wall_collision">
         <geometry>
           <mesh>
-            <uri>file:///home/nakata/ros/jsk_aerial_robot_ws/src/jsk_aerial_robot/aerial_robot_simulation/gazebo_model/model/wall_hole/mesh/wall_hole.STL</uri>
+            <uri>model://wall_hole/mesh/wall_hole.STL</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
