@@ -17,8 +17,9 @@ Object and world models for gazebo simulation.
 - wall_image
   - wall with photo
 - exp_board
-  - 300mm x 450mm x 5mm board
-  - 40mm x 40mm colored patch at the center
+  - 450mm x 600mm x 5mm white board
+  - 40mm x 40mm black patch at the center
+  - 10mm diameter white circle at the center of the patch
 ## Notes
 - Load world files in ros launch files
   - ```$(find gazebo_models)/worlds/{world type}.world```

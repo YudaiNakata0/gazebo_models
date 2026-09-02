@@ -42,7 +42,7 @@
     <include>
       <uri>model://exp_board</uri>
       <name>exp_board_1</name>
-      <pose>1 0 0.5 0 0 0</pose>
+      <pose>1 0 1 0 0 0</pose>
     </include>
 
     <!-- light -->
