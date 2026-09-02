@@ -16,6 +16,9 @@ Object and world models for gazebo simulation.
   - blue surface
 - wall_image
   - wall with photo
+- exp_board
+  - 300mm x 450mm x 5mm board
+  - 40mm x 40mm colored patch at the center
 ## Notes
 - Load world files in ros launch files
   - ```$(find gazebo_models)/worlds/{world type}.world```
